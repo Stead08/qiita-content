@@ -1,5 +1,5 @@
 ---
-title: winterjsをローカル(MacOS)にインストールするために試行錯誤したことまとめ
+title: WinterJSをローカル(MacOS)にインストールするために試行錯誤したことまとめ
 tags:
   - 'rust'
   - 'javascript'
