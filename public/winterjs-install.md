@@ -5,7 +5,7 @@ tags:
   - Rust
   - winterjs
 private: false
-updated_at: '2024-03-15T16:41:10+09:00'
+updated_at: '2024-03-15T16:44:37+09:00'
 id: 411e220810fee07ce38d
 organization_url_name: null
 slide: false
